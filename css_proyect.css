@@ -1,0 +1,113 @@
+
+   
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f9;
+    }
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 15px 20px;
+        text-align: center;
+    }
+    /* Estilo del menú */
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px; 
+    padding-right: 20px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+/* Dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    min-width: 10px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 4px;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s;
+}
+
+.dropdown-content a:hover {
+    background-color: #666;
+}
+
+/* Mostrar el menú desplegable al pasar el cursor */
+.dropdown:hover .dropdown-content {
+    display: block;
+    }
+
+    .container {
+        padding: 20px;  
+        text-align: center;
+    }
+    .product {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        padding: 15px;
+        background-color: #fff;
+        
+
+    }
+    .product h3 {
+        margin:right;
+    }
+    .product p {
+        margin: 0 0 15px;
+    }
+    .product img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin:20px ;
+    }
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        margin-bottom: 1%;
+    }
+    .btn:hover {
+        background-color: #218838;
+    }
+
+fieldset{
+    margin-bottom:1%;
+    margin-top: 1%;
+}
+
