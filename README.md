@@ -14,6 +14,9 @@ Nuestra idea principal para Custom Pc store fue la creacion e inobasion sostenib
 |     HTML                  |   Contenido     |      |
 |---------------------------|---------|-----|
 |  proyecto iuntermdular    |  Imagenes para visualizar lo que hacemos|      |
-|  productos                |  Seccion para comprar       | 650€      |        |
+|  productos                |  Seccion para comprar       |          |  
 |  contacto_proyect         |  Seccion para poder acer peedidos especificos o hablar con nosotros  |     |
 |  sobre nosotros           |   Nuestra Historia       |     |
+
+### 3. Donde robe la idea
+Para que mentirnos esto no se nos ocurrio derrepente buscando sinquerer encontre la paquina para tunear PC (https://centergamingespana.com)[https://centergamingespana.com/modding-pc-menu/]
