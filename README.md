@@ -1,15 +1,19 @@
 >[!IMPORTANT]
 >No se me ocuerre nada de que ponerte sobre el trabajo porque se me van a acabar las ideas en 2 o 3 prarrafos, a partir de hay te pondre el quijote
->. 
 
-# Lorem ipsum 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tristique faucibus nibh, non rutrum eros malesuada ac. Morbi consectetur ipsum ac neque faucibus, convallis commodo tellus porttitor. Integer rhoncus ut leo non sodales. Praesent laoreet fringilla sem, vel iaculis augue bibendum in. Donec at finibus leo. Nam vel dictum justo. Integer est mauris, cursus id ante vel, posuere consequat quam. Aliquam erat volutpat. In luctus mattis dui non porttitor. Nulla facilisi. Phasellus facilisis blandit enim, id egestas lorem euismod at. Maecenas vestibulum cursus turpis id scelerisque. Nulla in est eu nibh viverra ornare et vel urna. Ut fringilla lorem sit amet condimentum vestibulum. Proin finibus vulputate mi vel convallis.
+
+# Custom Pc store
+Custom PC Store se fundó con la misión de empoderar a los entusiastas de la tecnología para que construyan las máquinas de sus sueños. Con componentes de primer nivel y soporte experto, hacemos que la personalización de la PC sea fácil y accesible.
+Se creo para poder personalizar cualquier tipo de PC como tu quieras sin que surjan problemasen su construccion.
 
 ## 1. Idea principal 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tristique faucibus nibh, non rutrum eros malesuada ac. Morbi consectetur ipsum ac neque faucibus, convallis commodo tellus porttitor. Integer rhoncus ut leo non sodales. Praesent laoreet fringilla sem, vel iaculis augue bibendum in. Donec at finibus leo. Nam vel dictum justo. Integer est mauris, cursus id ante vel, posuere consequat quam. Aliquam erat volutpat. In luctus mattis dui non porttitor. Nulla facilisi. Phasellus facilisis blandit enim, id egestas lorem euismod at. Maecenas vestibulum cursus turpis id scelerisque. Nulla in est eu nibh viverra ornare et vel urna. Ut fringilla lorem sit amet condimentum vestibulum. Proin finibus vulputate mi vel convallis.
-## 2. Listado de precios 
-|         |   Baja Gama      |   Media Gama  |    Alta Gama  |
-|----------|------------------|---------------|--------------|
-|  resina    |   200€          | 400€      |       800€ |
-|  resina+pintura   |   350€       | 650€      |       1500€ |
-|  resina+pintura+led   |      500€       |     720€     |      |
+Nuestra idea principal para Custom Pc store fue la creacion e inobasion sostenible de piezxas personalizadas
+>[!Note]
+>Entre los integrantes del grupo savemos que es un deseo muy habicioso porque se a hecho muy poco pero estamos sacando salida poco a poco
+## 2. Listado de HTML 
+|     HTML                  |   Contenido     |      |
+|---------------------------|---------|-----|
+|  proyecto iuntermdular    |  Imagenes para visualizar lo que hacemos|      |
+|  productos                |  Seccion para comprar       | 650€      |        |
+|  contacto_proyect         |  Seccion para poder acer peedidos especificos o hablar con nosotros  |     |
+|  sobre nosotros           |   Nuestra Historia       |     |
